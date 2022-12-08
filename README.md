@@ -41,5 +41,5 @@ Meus hobbies preferidos são:
   
  
 ## Repositórios Importantes
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvertonSciasci&repo=prever-inadimplencia&thene=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EvertonSciasci&repo=regressao-linear-multipla&thene=radical)](https://github.com/anuraghazra/github-readme-stats)
   
